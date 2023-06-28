@@ -1,1 +1,1 @@
-# go-domain
+# Go Domain is a project approach with the architectural concept of Domain Driven Design.
